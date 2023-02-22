@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(187, 0, 255);
+}
+
+.red {
+    color: rgb(143, 25, 25);
+}
+
+section ul {
+    color: rgb(180, 132, 44);
+
+}
+
+section h2, section p {
+color:rgb(0, 166, 255);
+
+}
+a:hover {
+    font-weight: bolder;
+}
